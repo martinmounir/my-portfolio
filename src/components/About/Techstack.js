@@ -17,7 +17,6 @@ import ReactIcon from '../../Assets/TechIcons/ReactIcon.svg'
 import Redux from '../../Assets/TechIcons/Redux.svg'
 import Vite from '../../Assets/TechIcons/Vite.svg'
 
-import Git from '../../Assets/TechIcons/Git.svg'
 import MySQL from '../../Assets/TechIcons/MySQL.svg'
 
 function Techstack() {
