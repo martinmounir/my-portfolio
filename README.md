@@ -116,27 +116,6 @@ npm start
 <img width="100%" src="./Images/readme-img.png"/>
 
 </div>
-
----
-
-# 👨‍💻 ABOUT ME
-
-Hi, I'm **Martin Mounir**  
-🎓 Computer Science Student at October 6 University  
-💡 Passionate about Front-End Development & Problem Solving  
-🚀 Currently improving my skills in React and modern web technologies
-
----
-
-# 📬 CONTACT
-
-- 📧 Email: martin23017921@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/martin-mounir/
-- 🐙 GitHub: https://github.com/martinmounir
-- 🌐 Portfolio: https://martin-mounir.vercel.app/
-
----
-
 <div align="center">
 
 ### ⭐ IF YOU LIKE THIS PROJECT, GIVE IT A STAR ⭐
