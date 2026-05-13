@@ -76,7 +76,7 @@ My_Portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/martinmounir/My_Portfolio.git
+git clone https://github.com/martinmounir/martinportfolio.git
 ```
 
 Go to the project directory:
