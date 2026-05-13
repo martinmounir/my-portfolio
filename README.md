@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://martin-mounir.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-MartinMounir-black?style=for-the-badge&logo=github)](https://github.com/martinmounir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Mounir-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Mounir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martin-mounir/)
 
 </div>
 
@@ -101,7 +101,7 @@ npm start
 
 # 🌍 LIVE DEMO
 
-### 🔗 [VIEW PORTFOLIO](#)
+### 🔗 [VIEW PORTFOLIO](https://martin-mounir.vercel.app/)
 
 ---
 
@@ -130,6 +130,7 @@ Hi, I'm **Martin Mounir**
 - 📧 Email: martin23017921@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/martin-mounir/
 - 🐙 GitHub: https://github.com/martinmounir
+- 🌐 Portfolio: https://martin-mounir.vercel.app/
 
 ---
 
