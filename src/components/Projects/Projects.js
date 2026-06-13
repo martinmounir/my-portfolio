@@ -36,7 +36,7 @@ function Projects() {
               title="Social Media Dashboard"
               description="Developed a responsive social media dashboard using HTML, SCSS, and JavaScript. Implemented dark/light mode functionality, social media analytics cards, and a clean, modern UI while following responsive design principles for desktop and mobile devices."
               ghLink="https://github.com/martinmounir/Social_Media_Dashboard"
-              demoLink="https://social-media-dashboard-49.web.app/"
+              demoLink="https://social-media-dashboard-12.vercel.app/"
             />
           </Col>
         </Row>
