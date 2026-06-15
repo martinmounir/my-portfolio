@@ -498,12 +498,6 @@ button:focus {
   flex-direction: column;
 }
 
-.project-card-view .card-body {
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-}
-
 .project-card-view .card-text {
   flex-grow: 1;
 }
