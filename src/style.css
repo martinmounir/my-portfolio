@@ -498,10 +498,6 @@ button:focus {
   flex-direction: column;
 }
 
-.project-card-view .card-text {
-  flex-grow: 1;
-}
-
 .blog-link {
   color: white !important;
   text-decoration: none !important;
