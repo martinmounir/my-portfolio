@@ -504,6 +504,13 @@ button:focus {
   padding: 20px !important;
   border-radius: 30px !important;
 }
+.project-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 .btn-primary {
   color: #fff !important;

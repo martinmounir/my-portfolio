@@ -6,6 +6,7 @@ import pdf from '../../Assets/../Assets/Martin Mounir Resume.pdf'
 import { AiOutlineDownload } from 'react-icons/ai'
 import { Document, Page, pdfjs } from 'react-pdf'
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css'
+
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`
 
 function ResumeNew() {
@@ -19,15 +20,11 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
+
         <Row style={{ justifyContent: 'center', position: 'relative' }}>
-          <Button
-            variant="primary"
-            href={pdf}
-            target="_blank"
-            style={{ maxWidth: '250px' }}
-          >
+          <Button className="tech-icons" href={pdf} target="_blank">
             <AiOutlineDownload />
-            &nbsp;Download CV
+            <span className="tech-icons-text">Download CV</span>
           </Button>
         </Row>
 
@@ -38,14 +35,9 @@ function ResumeNew() {
         </Row>
 
         <Row style={{ justifyContent: 'center', position: 'relative' }}>
-          <Button
-            variant="primary"
-            href={pdf}
-            target="_blank"
-            style={{ maxWidth: '250px' }}
-          >
+          <Button className="tech-icons" href={pdf} target="_blank">
             <AiOutlineDownload />
-            &nbsp;Download CV
+            <span className="tech-icons-text">Download CV</span>
           </Button>
         </Row>
       </Container>
