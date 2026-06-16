@@ -17,13 +17,11 @@ function ProjectCards(props) {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
 
-        <Card.Text style={{ textAlign: 'left' }}>
-          {props.description}
-        </Card.Text>
+        <Card.Text style={{ textAlign: 'left' }}>{props.description}</Card.Text>
 
         <div className="project-buttons">
           <Button
-            className="tech-icons"
+            className="tech-icons tech-icons-text"
             href={props.ghLink}
             target="_blank"
           >
@@ -33,7 +31,7 @@ function ProjectCards(props) {
 
           {!props.isBlog && props.demoLink && (
             <Button
-              className="tech-icons"
+              className="tech-icons tech-icons-text"
               href={props.demoLink}
               target="_blank"
             >
